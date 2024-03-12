@@ -1,1 +1,1 @@
-A Simple Chat App using ReactJS and Chat Engine
+A Chat Application using ReactJS and Chat Engine
